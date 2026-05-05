@@ -15,10 +15,6 @@ This project is a Proof-of-Concept (PoC) developed for academic purposes. It sim
 - **Environment:** Tested within an isolated **Windows Sandbox**.
 
 
-
-[Image of AES encryption process diagram]
-
-
 ## How to Run (Educational Use Only)
 1. **Setup Environment:**
    `pip install cryptography pyinstaller`
